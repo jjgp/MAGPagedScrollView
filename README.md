@@ -1,8 +1,11 @@
 # MAGPagedScrollView
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 25e8b0051d6cfcb07b8c76782ad2ea85d86300cb
+=======
+>>>>>>> e5a8ad5e85c604d0681805acd542de357e3c92e5
 
 Now MAGPagedScrollView supports Swift 3. If you want to use Swift 1.2 - 2, [MadAppGang/MAGPagedScrollView!](https://github.com/MadAppGang/MAGPagedScrollView.)
 MAGPagedScrollView is collection of some scroll classes that orginise views and view controllers as horizontall scroll flow
@@ -282,6 +285,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -292,3 +296,5 @@ UIScrollView that works as container for other ViewControllers
 >>>>>>> 1b097dfb4d58f35148fc1456d710ceb2cba45caa
 =======
 >>>>>>> 25e8b0051d6cfcb07b8c76782ad2ea85d86300cb
+=======
+>>>>>>> e5a8ad5e85c604d0681805acd542de357e3c92e5
