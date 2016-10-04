@@ -1,6 +1,6 @@
 # MAGPagedScrollView
 
-Now MAGPagedScrollView supports Swift2. If you want to use Swift 1.2, use tag 0.0.6.
+Now MAGPagedScrollView supports Swift 3. If you want to use Swift 1.2 - 2, [MadAppGang/MAGPagedScrollView!](https://github.com/MadAppGang/MAGPagedScrollView.)
 MAGPagedScrollView is collection of some scroll classes that orginise views and view controllers as horizontall scroll flow
 
 - 100% Swift (are you still developing with Objective-C ?)
@@ -8,7 +8,7 @@ MAGPagedScrollView is collection of some scroll classes that orginise views and 
 - easy to use (2 minutes to implement basic app)
 - support and bug fixing (we are using this component in our products)
 
-Please send us link to your apps, and w ewill create app gallery.
+Please send us link to your apps, and we will create app gallery.
 
 Here is video demo:
 
@@ -203,8 +203,8 @@ and result of that:
 So anyone could be ViewProvider, but if you are using **UIViewController** subclass as **ViewProvider** you are expecting to have all View Controller lifecycle works as expected and described in apple doc:
 
 
-[![lyfecycle](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/Art/UIViewController%20Class%20Reference_2x.png)](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html)
 
+[lifecycle](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html)![lifecycle](https://docs-assets.developer.apple.com/published/f06f30fa63/UIViewController_Class_Reference_2x_ddcaa00c-87d8-4c85-961e-ccfb9fa4aac2.png)
 
 And expecting to get rotation callback for your child view controllers, for example handling it in iOS8+ :
 ```swift
