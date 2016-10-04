@@ -7,7 +7,7 @@
 =======
 >>>>>>> e5a8ad5e85c604d0681805acd542de357e3c92e5
 
-Now MAGPagedScrollView supports Swift 3. If you want to use Swift 1.2 - 2, [MadAppGang/MAGPagedScrollView!](https://github.com/MadAppGang/MAGPagedScrollView.)
+Now MAGPagedScrollView supports **Swift 3**. If you want to use Swift 1.2 - 2, [MadAppGang/MAGPagedScrollView!](https://github.com/MadAppGang/MAGPagedScrollView)
 MAGPagedScrollView is collection of some scroll classes that orginise views and view controllers as horizontall scroll flow
 
 - 100% Swift (are you still developing with Objective-C ?)
